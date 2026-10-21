@@ -1,4 +1,4 @@
-# 🩸 Lab Report Flagger       **[🔗 Live app]([https://your-app.streamlit.app](https://lab-report-flagger-ppy9h5atncmzwqf4spdytk.streamlit.app/))**
+# 🩸 Lab Report Flagger       **[🔗 Live app](https://lab-report-flagger-ppy9h5atncmzwqf4spdytk.streamlit.app/)**
    ![Lab Report Flagger](lab-report-flagger-screenshot.png)
       
 
