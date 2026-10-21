@@ -1,6 +1,6 @@
-# 🩸 Lab Report Flagger
+# 🩸 Lab Report Flagger       **[🔗 Live app]([https://your-app.streamlit.app](https://lab-report-flagger-ppy9h5atncmzwqf4spdytk.streamlit.app/))**
    ![Lab Report Flagger](lab-report-flagger-screenshot.png)
-      **[🔗 Live app]([https://your-app.streamlit.app](https://lab-report-flagger-ppy9h5atncmzwqf4spdytk.streamlit.app/))**
+      
 
 A transparent, rule-based web app that reads a blood-test report (PDF or scan), flags each value against age- and sex-specific reference ranges, explains what each abnormal value means, reads the results **together** to surface likely disease patterns, and ends with a clear verdict: **see a doctor immediately, soon, or not urgently.**
 
