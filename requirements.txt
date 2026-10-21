@@ -1,0 +1,6 @@
+streamlit>=1.40
+pdfplumber>=0.11
+pymupdf>=1.24
+pytesseract>=0.3.10
+pillow>=10.0
+pandas>=2.0

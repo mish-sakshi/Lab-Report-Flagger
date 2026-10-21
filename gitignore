@@ -1,0 +1,21 @@
+# virtual environment (any layout)
+.venv/
+venv/
+env/
+bin/
+lib/
+lib64/
+include/
+share/
+pyvenv.cfg
+
+# python caches
+__pycache__/
+*.pyc
+
+# DATA / PRIVACY — never commit real lab reports or images
+*.pdf
+*.png
+
+# OS
+.DS_Store
